@@ -1,6 +1,12 @@
 public class Atividade1 {
-    int age = 20;
-    final MESES_NO_ANO=12;
-    double calc =0;
-    calc =
+
+    public static void main(String[] args) {
+        String nome = "Carlos";
+        String cidade = "São Gonçalo";
+        final String PAIS = "Brasil";
+
+        System.out.println("Olá, eu sou " + nome + " moro em " +
+                cidade + " /" + PAIS      );
+    }
+
 }
