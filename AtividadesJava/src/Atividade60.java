@@ -1,4 +1,4 @@
-public class Atividade60 {
+
     import java.util.Scanner;
 
     public class Atividade60 {
@@ -31,4 +31,4 @@ public class Atividade60 {
         }
         isTriangulo(valor[0],valor[1],valor[2]);
  */
-}
+

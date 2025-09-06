@@ -1,4 +1,4 @@
-public class Atividade32 import java.util.Scanner;
+import java.util.Scanner;
 public class Atividade32 {
     public static void main(String[] args) {
         Scanner leia = new Scanner(System.in);

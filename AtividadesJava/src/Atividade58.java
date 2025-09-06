@@ -1,4 +1,4 @@
-public class Atividade58 {
+
     import java.util.Scanner;
 
     public class Atividade58 {
@@ -24,4 +24,4 @@ public class Atividade58 {
         }
 
     }
-}
+

@@ -1,4 +1,4 @@
-public class Atividade59 {
+
     import java.util.Scanner;
     public class Atividade59 {
         public static void mediaAritmetica(double[] vetor){
@@ -16,4 +16,4 @@ public class Atividade59 {
             mediaAritmetica(valores);
         }
     }
-}
+
