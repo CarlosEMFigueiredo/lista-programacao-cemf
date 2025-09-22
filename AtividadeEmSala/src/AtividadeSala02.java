@@ -1,5 +1,5 @@
 public class AtividadeSala02 {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         String nome = "Victor";
         String sobrenome = "Silva";
         int idade = 29;
@@ -12,6 +12,8 @@ public class AtividadeSala02 {
 
         String txtPesoAltura = "Peso: " + peso + "; Altura: " + altura;
         System.out.println(txtPesoAltura);
-        imc = peso/(altura*altura);
-        System.out.println("Base calc IMC: " +peso+"/"+altura+"² = " + imc);
+        imc = peso / (altura * altura);
+        System.out.println("Base calc IMC: " + peso + "/" + altura + "² = " + imc);
+    }
+}
 
